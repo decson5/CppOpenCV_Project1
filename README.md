@@ -1,1 +1,1 @@
-Simple OpenCV project on C++
+Simple OpenCV project on C++. The project using "haar face recognition", where you can capture your own video stream or use a current videos you have, and as the final result the video will be converted to mp4 with face recognition.
